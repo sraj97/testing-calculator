@@ -1,4 +1,4 @@
-l# Set up the language as node.js
+# Set up the language as node.js
 language: node_js
 # Tell the system which version of node to install!
 node_js:
